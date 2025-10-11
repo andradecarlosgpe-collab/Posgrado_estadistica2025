@@ -37,10 +37,10 @@ en MCF y DCMRN.
  + Base de datos CROP (varianza entre medias)
  + Aprender a crear una Gráfica de violín
  + Tarea: Comparación entre medias de concentración de estroncio en 5 lagos.
- <img width="1887" height="823" alt="Captura de pantalla 2025-10-11 113407" src="https://github.com/user-attachments/assets/190ae1ac-2fc3-4a48-ab12-4cb270edef5e" />
-
  *Semana 8* 
- +. No se realizo nada en modalidad en linea. 
+ +. No se realizo nada en modalidad en linea.
+<img width="1887" height="823" alt="Captura de pantalla 2025-10-11 113407" src="https://github.com/user-attachments/assets/190ae1ac-2fc3-4a48-ab12-4cb270edef5e" />
+*Figura 1: La grafica de contribución muestra de manera visual la actividad de toda la actividad que se tuvo al relizar los repositorios.
  
  
  
